@@ -25,7 +25,7 @@
 
 ### 🚀 Portfolio
 
-🔗 [Click here to view my personal portfolio](https://David-HRBarbosa.github.io/portfolio)
+🔗 [Click here to view my personal portfolio](https://david-hrbarbosa.github.io/Portfolio/)
 
 ---
 
@@ -43,7 +43,6 @@
 - 📫 Email: david.hrbarbosa159@gmail.com
 - 💼 [LinkedIn](http://linkedin.com/in/david-henrique-rodrigues)
 - 💻 [GitHub](https://github.com/David-HRBarbosa)
-- 🌐 [Portfolio](https://David-HRBarbosa.github.io/portfolio)
 
 ---
 
