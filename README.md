@@ -36,7 +36,10 @@
 
 - 📫 Email: your.email@gmail.com
 - 💼 [LinkedIn](http://linkedin.com/in/david-henrique-rodrigues)
-- 🌐 Portfolio: coming soon...
+- 
+- ### 🌐 Check Out My Portfolio
+
+📁 [Click here to view my portfolio](https://David-HRBarbosa.github.io/portfolio)
 
 ---
 
