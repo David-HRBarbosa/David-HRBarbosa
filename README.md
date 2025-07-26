@@ -1,45 +1,49 @@
-<h1 align="center">🧠 Your idea loading...</h1>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Your%20Idea%20Loading...&fontSize=30&fontAlign=center)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fWg3vTG6YzFhPZzIhA/giphy.gif" width="120" alt="Brain loading" />
-</p>
-
-<p align="center">
-  <img src="https://progress-bar.dev/100/?title=Loading%20Idea..." width="300">
+  <img src="https://github.com/David-HRBarbosa/David-HRBarbosa/blob/main/assets/brain-loading.gif" width="150" alt="Loading Brain Animation">
 </p>
 
 ---
 
-### 👋 Hello! I'm David Henrique Rodrigues Barbosa
+### 👋 Hi there! I'm David Henrique
 
-I'm a passionate and creative **Web Developer** focused on building intuitive and professional websites and applications.
-
-🎯 **Currently learning:**  
-- Back-end development with **Node.js** and **TypeScript**
-
-🧰 **Technologies I work with:**  
-- HTML, CSS, JavaScript  
-- Soon: Node.js & TypeScript projects coming here!
-
-📍 **Based in:** Portugal 🇵🇹  
-💼 **Looking for opportunities** as a Full Stack Web Developer.
+💻 I'm a **Full Stack Web Developer in training** with a background in business and people management. Currently learning modern web technologies to build scalable and creative solutions.
 
 ---
 
-### 🔗 Connect with me:
+### 🛠️ Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/david-henrique-rodrigues)
-
-🌐 **Portfolio:** (em breve...)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 🚀 Soon you'll find here:
-- 💼 Personal Portfolio Site
-- 🌍 Full Stack Projects
-- 📦 Open Source Contributions
+### 📊 GitHub Stats
 
-Stay tuned! 😉
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=David-HRBarbosa&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-HRBarbosa&layout=compact&theme=radical"/>
+</p>
+
+---
+
+### 🌎 Let's Connect
+
+- 📫 Email: your.email@gmail.com
+- 💼 [LinkedIn](http://linkedin.com/in/david-henrique-rodrigues)
+- 🌐 Portfolio: coming soon...
+
+---
+
+![visitors](https://komarev.com/ghpvc/?username=David-HRBarbosa&label=Profile%20views&color=0e75b6&style=flat)
+
+<p align="center">✨ Building one line of code at a time ✨</p>
+
 
 
 
