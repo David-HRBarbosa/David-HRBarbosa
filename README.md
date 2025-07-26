@@ -34,7 +34,7 @@
 
 ### 🌎 Let's Connect
 
-- 📫 Email: your.email@gmail.com
+- 📫 Email: david.hrbarbosa159@gmail.com
 - 💼 [LinkedIn](http://linkedin.com/in/david-henrique-rodrigues)
 - 🌐 Portfolio: coming soon...
 
