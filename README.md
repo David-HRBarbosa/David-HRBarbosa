@@ -34,12 +34,12 @@
 
 ### 🌎 Let's Connect
 
-- 📫 Email: your.email@gmail.com
+- 📫 Email: david.hrbarbosa159@gmail.com
 - 💼 [LinkedIn](http://linkedin.com/in/david-henrique-rodrigues)
 - 
 - ### 🌐 Check Out My Portfolio
 
-📁 [Click here to view my portfolio](https://David-HRBarbosa.github.io/portfolio)
+📁[Portfolio](https://David-HRBarbosa.github.io/portfolio)
 
 ---
 
